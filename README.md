@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuphongsrinawong&label=Profile%20views&color=0e75b6&style=flat" alt="anuphongsrinawong" /> </p>
 
-- 🌱 I’m currently learning **React,Lavavel**
+- 🌱 I’m introduce myself with link (https://anuphongsrinawong.github.io/Resume/) 
 
 - 👨‍💻 All of my projects are available at [https://github.com/anuphongsrinawong](https://github.com/anuphongsrinawong)
 
