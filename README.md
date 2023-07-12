@@ -7,13 +7,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/anuphongsrinawong](https://github.com/anuphongsrinawong)
 
-- 📫 How to reach me **srinawonganuphong@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/anuphongsrinawong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="anuphongsrinawong" height="30" width="80" /></a>
-<a href="https://fb.com/anuphong srinawong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anuphong srinawong" height="30" width="80" /></a>
-</p>
+ **srinawonganuphong@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="80" height="80"/> </a> 
